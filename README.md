@@ -1,1 +1,5 @@
-# mi-primer-repositorio-en-equipo
+# Trabajo en equipo
+
+## German Cirigliano
+
+## Cristian Gerster
